@@ -7,7 +7,7 @@
     <ProjectGuid>{0D35EC99-AACA-4010-94CE-BFB1237BB624}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Listbox_och_Combobox</RootNamespace>
-    <AssemblyName>Listbox och Combobox</AssemblyName>
+    <AssemblyName>webbrowser</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
